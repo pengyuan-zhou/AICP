@@ -1,2 +1,12 @@
 # AICP
-The datasets and simulation code (changes) for AICP simulation.
+The datasets and code for the experiments of the following paper:
+
+''Augmented Informative Cooperative Perception'', in submission to *ICDCS'21*
+ 
+``/sort/objects.json`` contains the detected object data.
+
+``/sort/weightedFitnessSort.ipynb`` is the easy-to-use jupyter notebook containing the weighted fitness sorting algorithm code.
+
+``/veins/examples/veins/antenna.xml`` contains the front-rear antenna configuration.
+
+``/veins/src/veins/modules/`` contains the simulation code for CMR.
