@@ -1,7 +1,7 @@
 # AICP
 The datasets and code for the experiments of the following paper:
 
-''Augmented Informative Cooperative Perception'', in submission to *ICDCS'21*
+''Augmented Informative Cooperative Perception''
  
 ``/sort/objects.json`` contains the detected object data.
 
